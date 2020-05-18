@@ -15,3 +15,4 @@ public class programA {
         System.out.println(newObject.printWeek());
     }
 }
+
