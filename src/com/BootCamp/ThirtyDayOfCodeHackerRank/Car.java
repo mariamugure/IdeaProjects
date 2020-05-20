@@ -94,6 +94,8 @@ package com.BootCamp.ThirtyDayOfCodeHackerRank;
         Programmers use camel case to easily read the name of the propriety or method
  */
 
+import java.util.Scanner;
+
 public class Car {
      int maxSpeed=100;
       int minSpeed=0;
@@ -134,4 +136,5 @@ public class Car {
 
 
     }
+
 }
